@@ -29,6 +29,7 @@
 - #### Please Remove my Repo!
 > - If [@pkgforge-community](https://github.com/orgs/pkgforge-community/people) has [forked](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) your repo, and you disagree with it [being used by thousands of people](https://github.com/pkgforge/soarpkgs), No worries.
 > - Simply Create an Issue in the [Forked Version](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) of Your repo, and [@pkgforge-community](https://github.com/orgs/pkgforge-community/people) will archive it & remove it from the `pkgforge-community` repository.
+> - You can also [create a Discussion](https://github.com/orgs/pkgforge-community/discussions/new/choose): https://github.com/orgs/pkgforge-community/discussions/new/choose
 > - You can also Contact us directly, see below.
 
 - #### [**Community 💬**](https://t.me/official_loonix/63949)
