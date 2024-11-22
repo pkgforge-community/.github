@@ -16,6 +16,8 @@
 - #### Why did you fork my Repo?
 > - If [@pkgforge-community](https://github.com/orgs/pkgforge-community/people) has [forked](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) your repo, Congratulations 🎉!
 > - It means, your project was approved (or soon will be in) for [`soarpkgs`](https://github.com/pkgforge/soarpkgs), the `pkgforge-community` repository for [Soar](https://github.com/pkgforge/soar), the Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
+> - <ins>We will still use your source repo to download the packages</ins>. You will receive <ins>full credit</ins> & the package will <ins>contain link to your Source Repo</ins> in the [Metadata](https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/metadata/METADATA.json)
+> - The [forks](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) are solely for Archival Backup, Security & Transparency.
 
 - #### Cool! How Can I participate, help & Contribute?
 > - Star ⭐ & Check our core Projects:
