@@ -2,7 +2,7 @@
     <a href="https://github.com/pkgforge/soar">
         <img src="https://github.com/user-attachments/assets/300385fe-0e54-4387-9655-7e3e9db7fcce" width="256"></a>
     <br>
-    <b><strong> <a href="https://github.com/pkgforge/soar">Package Forge Community</a></code></strong></b>
+    <b><strong> <a href="https://docs.pkgforge.dev/orgs/pkgforge-community">Package Forge Community</a></code></strong></b>
     <br>
 </p>
 
