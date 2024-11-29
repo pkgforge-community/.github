@@ -6,7 +6,10 @@
     <br>
 </p>
 
-### About ℹ️
+### [About ℹ️](https://docs.pkgforge.dev/orgs/pkgforge-community)
+[doc-shield]: https://img.shields.io/badge/docs.pkgforge.dev-blue
+[doc-url]: https://docs.pkgforge.dev/orgs/pkgforge-community
+[![Documentation][doc-shield]][doc-url]<br>
 > - Welcome to [Package Forge Community](https://github.com/pkgforge-community), a sub organization under [PkgForge](https://github.com/pkgforge)
 > - Here, [PkgForge](https://github.com/pkgforge) maintains up to date [Forks](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) of all the [`Packages, Tools & Dependencies`](https://github.com/pkgforge) that [PkgForge's](https://github.com/pkgforge) Ecosystem Depends upon.
 > - [@pkgforge-community](https://github.com/orgs/pkgforge-community/people) was formed with **Security & Transparency** at our Core, so we maintain these [Forks](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) to keep a <ins>[Complete History of All Commits & All Releases](https://github.com/pkgforge-community/repo-data)</ins>
