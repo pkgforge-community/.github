@@ -18,18 +18,17 @@
 ### `FAQ` 📖
 - #### Why did you fork my Repo?
 > - If [@pkgforge-community](https://github.com/orgs/pkgforge-community/people) has [forked](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) your repo, Congratulations 🎉!
-> - It means, your project was approved (or soon will be in) for [`soarpkgs`](https://github.com/pkgforge/soarpkgs), the `pkgforge-community` repository for [Soar](https://github.com/pkgforge/soar), the Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
-> - <ins>We will still use your source repo to download the packages</ins>. You will receive <ins>full credit</ins> & the package will <ins>contain link to your Source Repo</ins> in the [Metadata](https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/metadata/METADATA.json)
+> - It means, your project was approved (or soon will be in) for [`soarpkgs`](https://github.com/pkgforge/soarpkgs), the [Soar User Repository](https://docs.pkgforge.dev/repositories/soarpkgs) containing [`.SBUILD`](https://docs.pkgforge.dev/sbuild/introduction) for [Soar](https://github.com/pkgforge/soar), The Modern, Bloat-Free Distro-Independent [Package Manager](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
+> - <ins>We will still use your source repo to download the packages</ins>. You will receive <ins>full credit</ins> & the package will <ins>contain link to your Source Repo</ins> in the [Metadata](https://meta.pkgforge.dev/soarpkgs/INDEX.json)
 > - The [forks](https://github.com/orgs/pkgforge-community/repositories?q=fork%3Atrue+archived%3Afalse) are solely for Archival Backup, Security & Transparency.
 
 - #### Cool! How Can I participate, help & Contribute?
 > - Star ⭐ & Check our core Projects:
-> > - [Soar](https://github.com/pkgforge/soar): Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
+> > - [Soar](https://github.com/pkgforge/soar): The Modern, Bloat-Free Distro-Independent [Package Manager](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
 > > > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif?tmp.seCvHhomSw=tmp.OWAEA1CBfs" alt="soar-list"></a><br>
-> > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official ([`pkgforge-community`](https://docs.pkgforge.dev/repositories/pkgforge-community)) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://docs.pkgforge.dev/sbuild/specification)) 📦📀 Recipes to Build, Install & Integrate Everything
-> > - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
-> > - [PkgCache](https://github.com/pkgforge/pkgcache): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage](https://docs.pkgforge.dev/formats/packages)
-> > - [BinCache](https://github.com/pkgforge/bincache): Official ([`pkgforge-stable`](https://docs.pkgforge.dev/repositories/pkgforge-stable)) Repo 📀, [Importing & SnapShotting](https://github.com/Azathothas/Toolpacks-BinCache-Importer) [Toolpacks](https://huggingface.co/datasets/pkgforge/bincache) & [PkgCache](https://huggingface.co/datasets/pkgforge/pkgcache) Periodically.
+> > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): 📦📀 [Soar User Repository](https://docs.pkgforge.dev/repositories/soarpkgs) containing [`.SBUILD`](https://docs.pkgforge.dev/sbuild/introduction) for Making Linux Packaging truly Portable, Simple, and Distro-Independent
+> > - [BinCache](https://github.com/pkgforge/bincache): 📦 The Largest Collection of [Pre-Compiled Linux Static Binaries](https://pkgs.pkgforge.dev), used as the primary [Binary cache](https://docs.pkgforge.dev/repositories/bincache) for Soar
+> > - [PkgCache](https://github.com/pkgforge/pkgcache):  📀 [Pre-Built Portable Packages](https://docs.pkgforge.dev/repositories/pkgcache) [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage](https://docs.pkgforge.dev/formats/packages)
 > - Join the [Discussion at Discord](https://discord.gg/djJUs48Zbu): [![Discord](https://img.shields.io/discord/1313385177703256064?logo=%235865F2&label=Discord)](https://discord.gg/djJUs48Zbu)
 
 - #### Please Remove my Repo!
